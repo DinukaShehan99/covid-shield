@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Covid Shield</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="dont_have_account">Don\'t have account ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="back">BACK</string>
+
+    <string name="menu_home">Local</string>
+    <string name="menu_gallery">Global</string>
+    <string name="menu_slideshow">News</string>
+
+    <string name="drawer_open">Open Navigation drawer</string>
+    <string name="drawer_close">Close Navigation drawer</string>
+    <string name="user_name">User Name</string>
+    <string name="app_version">App Version</string>
+    <string name="total_cases">Total Cases</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="txt_new">New: </string>
+    <string name="_00_000_000">00,000,000</string>
+    <string name="_00_0000">+ 00,0000</string>
+    <string name="date_temp">Sept 05, 03:54 AM</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="local_total_patients_summery">Local Total Patients Summery</string>
+    <string name="realtime_analyzed_data_charts">Realtime Analyzed Data Charts</string>
+    <string name="local_pcr_amp_antigen_testing_summery"><![CDATA[Local PCR & Antigen Testing Summery]]></string>
+    <string name="select_a_country">Select a Country</string>
+    <string name="fully_vaccinated">Fully Vaccinated</string>
+    <string name="first_dose_only">First Dose Only</string>
+    <string name="not_vaccinated">Not Vaccinated</string>
+    <string name="president_secretairat">President Secretariat</string>
+    <string name="health_promotion_bureau">Health Promotion Bureau</string>
+    <string name="epidemiology_unit">Epidemiology Unit</string>
+    <string name="news_api_org">News Api Org</string>
+    <string name="disease_api">Disease.sh Api</string>
+    <string name="info_01">Go to the official website of President Secretariat for more detailed and graphical information about Covid-19.\n</string>
+    <string name="info_02">Go to the official website of Epidemiology Unit for more detailed reports about daily covid patients in Sri-Lanka.\n</string>
+    <string name="info_03">Go to the official website of Health Promotion Bureau for more detailed and graphical information about Covid-19.\n</string>
+    <string name="todo">TODO</string>
+    <string name="visit_website">Visit Website</string>
+</resources>

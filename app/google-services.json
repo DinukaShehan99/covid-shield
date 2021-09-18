@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905556209272",
+    "project_id": "covid-shield-f940b",
+    "storage_bucket": "covid-shield-f940b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905556209272:android:e9a8e5f2c23e33a6b1878d",
+        "android_client_info": {
+          "package_name": "com.borntocode.covidshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905556209272-a59mas800kqpbb25hs6jlhkkpo60slro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbP9mcUpDK8WpsLh_vnUqF9GKIoDTTEec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905556209272-a59mas800kqpbb25hs6jlhkkpo60slro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
