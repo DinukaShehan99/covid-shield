@@ -258,7 +258,6 @@ public class SignupActivity extends BaseActivity {
                     })
                     .show();
         } else {
-            Toast.makeText(this, "have permission", Toast.LENGTH_SHORT).show();
             sharedPreferencesManager.savePreferences(SharedPreferencesManager.FIREBASE_USER_ID, user.getUid());
             Intent intent = new Intent(SignupActivity.this, MainActivity.class);
             intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
